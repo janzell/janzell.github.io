@@ -32,5 +32,3 @@ git push -u origin master
 5. You can visit your GitHub Pages site at `http://username.github.io` (replace `username` with your username). ie. `http://lordmeowmeow.github.io`
 
 Note: If you have any static webpages on GitHub you want to display, you can easily add them to your github.io address. Just ask me later and I'll show you. 
-
-
