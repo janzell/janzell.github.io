@@ -1,34 +1,17 @@
-###GH Pages - Resume Template for CodeCore###
 
-This Resume Template created by Brent Vatne with custom styles and media queries. The template gives you a fantastic starting point for your online resume. Just replace Brent's info with your own. If you use this thank Brent for the template.
+open source resume(html+js+css)
 
-I also made some changes to Brent's example and added Bootstrap, jQuery and some notes. Implemented the grid system, site is fully responsive and will work on mobile.
+<h4><a href="http://51lxui.com/resume/" target="_blank">demo</a></h4>
 
+<h2>开源简历（open source resume）</h2>
+自己应聘做了一个简历,喜欢的可以去改成自己；
+code写的也不够标准，有兴趣的可以协助修改下。
 
-####Instructions to Deploy to GH-Pages####
-
-1. Create a new folder and Clone this repo into that folder.
-```shell
-git clone git@github.com:jzntam/GH-Pages-Resume-Template.git
-```
-
-2. Create a new repository on GitHub. Use the following format `username.github.io` as the repo name, where you replace `username` with your GitHub account name. ie. `lordmeowmeow.github.io`
-
-3. Change the content to match your details. Save, add and commit, but dont push. The git origin is currently pointing at the repo on my GitHub account, so we have to change this to point to yours. Again, replace `username` with your `username`.
-```shell
-git remote remove origin
-git remote add origin git@github.com:username/username.github.io.git
-
-#ie. git remote add origin git@github.com:lordmeowmeow/lordmeowmeow.github.io.git
+一些特色：
+<ul>
+  <li>响应式布局</li>
+  <li>局部打印</li>
+  <li>语音操作</li>
+</ul>
 
 
-git add .
-git commit -m "Commit Message... Changed details..."
-git push -u origin master
-```
-
-4. Eventhough it looks pretty good as is. Continue to add details and formatting to your heart's content. Or even better, you can completely redesign the site. The site is using google fonts, so you can replace the fonts we have in the link tag.
-
-5. You can visit your GitHub Pages site at `http://username.github.io` (replace `username` with your username). ie. `http://lordmeowmeow.github.io`
-
-Note: If you have any static webpages on GitHub you want to display, you can easily add them to your github.io address. Just ask me later and I'll show you. 
