@@ -239,8 +239,10 @@ i {
 	border-bottom: 1px #ddd solid;
 	padding: 50px 0 10px;
 	margin-bottom: 15px;
-	color: #4db0c7;
-}
+	color:#e81c5f;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+}}
 .info_area h5 i {
 	float: left;
 	margin-right: 5px;
@@ -478,10 +480,10 @@ i {
 	color: #ccc;
 }
 .base h2 {
-	font-size: 32px;
-	color: #3f668b;
+    font-size: 28px;
+    color:#e81c5f;
 	font-weight: normal;
-	padding: 5px 0;
+	text-transform: uppercase;
 }
 .base span p {
 	padding: 0 0 10px;
