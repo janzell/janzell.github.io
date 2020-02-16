@@ -239,9 +239,9 @@ i {
 	border-bottom: 1px #ddd solid;
 	padding: 50px 0 10px;
 	margin-bottom: 15px;
-	color:#e81c5f;
-    text-transform: uppercase;
-    letter-spacing: 6px;
+	color:#333333;
+  text-transform: uppercase;
+  letter-spacing: 6px;
 }}
 .info_area h5 i {
 	float: left;
@@ -252,14 +252,6 @@ i {
 }
 /* button */
 
-.btn_green {
-	background-color: #109d59;
-	color: #fff;
-}
-.btn_green:active {
-	background-color: #0d8049;
-	color: #fff;
-}
 .btn_more {
 	background-color: #fff;
 	color: #999;
@@ -480,8 +472,8 @@ i {
 	color: #ccc;
 }
 .base h2 {
-    font-size: 28px;
-    color:#e81c5f;
+  font-size: 28px;
+  color:#333333;
 	font-weight: normal;
 	text-transform: uppercase;
 }
@@ -519,12 +511,12 @@ i {
 }
 .info_content ul li h3 {
 	font-size: 14px;
-	color: #49b1ca;
+	color: #333;
 	font-weight:bold;
 	line-height: 25px;
 }
 .info_content ul li:hover h3 {
-	color: #4db0c7;
+	color: #333;
 }
 .info_content ul li h3 i {
 	float: left;

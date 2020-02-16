@@ -79,8 +79,7 @@
 	font-weight: normal;
 	display: none;
 	margin-left: 26px;
-	background: #4ab1ca;
-	color: #FFF;
+	color: #333;
 	clear: both;
 }
 .info_content ul li:hover .btn_go {
