@@ -77,7 +77,7 @@ i {
 /* begin */
 
 body {
-	font-family: 'Space Mono', sans-serif;
+	font-family: monospace;
 	font-size: 13px;
 	color: #666;
 	background-color: #f3f3f3;
