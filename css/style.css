@@ -227,7 +227,7 @@ input:-moz-placeholder {
 	font-style: italic;
 }
 .desc {
-	color: #999;
+	color: #696969;
 }
 i {
 	font-size: 16px;
@@ -469,7 +469,7 @@ i {
 	line-height: 20px;
 }
 .base p.desc {
-	color: #ccc;
+	color: #696969;
 }
 .base h2 {
   font-size: 28px;
@@ -609,7 +609,7 @@ i {
 }
 .info_timeline ul li .con p.desc,
 .info_timeline ul.focus li.curr .con p.desc {
-	color: #999;
+	color: #696969;
 }
 .info_timeline ul.focus li.curr .dot,
 .info_timeline ul.focus li.curr .dot b {
