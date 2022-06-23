@@ -239,9 +239,9 @@ i {
 	border-bottom: 1px #ddd solid;
 	padding: 50px 0 10px;
 	margin-bottom: 15px;
-	color:#333333;
-  text-transform: uppercase;
-  letter-spacing: 6px;
+	color:#9c27b0;
+  	text-transform: uppercase;
+  	letter-spacing: 6px;
 }}
 .info_area h5 i {
 	float: left;
@@ -511,9 +511,10 @@ i {
 }
 .info_content ul li h3 {
 	font-size: 14px;
-	color: #333;
-	font-weight:bold;
-	line-height: 25px;
+    color: #356075;
+    font-weight: bold;
+    line-height: 25px;
+    text-transform: uppercase;
 }
 .info_content ul li:hover h3 {
 	color: #333;
@@ -531,7 +532,7 @@ i {
 }
 .info_content ul li p {
 	padding-left: 26px;
-	color: #999;
+	color: #696969;
 }
 .info_content ul li p i {
 	margin-left: 5px;
@@ -597,9 +598,11 @@ i {
 .info_timeline ul li .con h3,
 .info_timeline ul.focus li.curr .con h3 {
 	font-size: 14px;
-	color: #333;
+    color: #356075;
 	line-height: 22px;
 	padding-bottom: 3px;
+    text-transform: uppercase;
+    font-weight: 600;
 }
 .info_timeline ul li .con p {
 	line-height: 25px;
@@ -627,10 +630,12 @@ i {
 .info_timeline dl dt {
 	float: left;
 	line-height: 25px;
-	color: #999;
+	color: #696969;
 }
 .info_timeline dl dt h6 {
-	color: #333;
+	color: #356075;
+    text-transform: uppercase;
+    font-weight: 600;
 }
 .info_timeline dl dt i {
 	float: left;
@@ -655,7 +660,7 @@ i {
 	margin: 7px 5px 0 0;
 }
 .info_timeline dl dd b {
-	background-color: #666;
+	background-color: #a96fb3;
 }
 .info_timeline dl dd em {
 	background-color: #ddd;
