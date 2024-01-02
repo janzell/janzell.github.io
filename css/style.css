@@ -280,15 +280,16 @@ i {
 }
 
 .info_area h5 {
-	font-size: 15px;
+	font-size: 20px;
 	line-height: 25px;
 	font-weight: bold;
 	padding: 10px;
 	margin-bottom: 15px;
-	color: #333;
-	background-color: #FFF;
+	background-color: #3e3e3e;
 	text-transform: uppercase;
 	letter-spacing: 6px;
+	text-align: center;
+	color: #FFF;
 }
 
 
@@ -458,8 +459,11 @@ i {
 /* layout */
 
 .main {
-	margin: 0 auto;
-	background-color: #fff;
+	box-shadow: 0px 0px 0px 1px rgb(140 140 140/.2);
+	border-radius: 0.8rem;
+	width: 1200px;
+	background-color: #FFF;
+	margin: 30px auto;
 }
 
 .content {
@@ -560,15 +564,10 @@ i {
 }
 
 .info_content ul li h3 {
-	color: #333;
 	font-weight: bold;
 	line-height: 25px;
 	margin-bottom: 13px;
 	text-transform: uppercase;
-}
-
-.info_content ul li:hover h3 {
-	color: #333;
 }
 
 .info_content ul li h3 i {
@@ -706,10 +705,8 @@ i {
 }
 
 .info_timeline dl dt h6 {
-	color: #356075;
 	text-transform: uppercase;
-	font-weight: 600;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 .info_timeline dl dt i {
