@@ -15,11 +15,15 @@
 	float: right;
 }
 
+
+
 .info_left,
 .info_right {
-	width: 47%;
+	width: 34%;
 }
-
+.info_left {
+	width: 60%;
+}
 .base {
 	width: calc(100% - 190px);
 	width: -moz-calc(100% - 190px);
